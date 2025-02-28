@@ -25,6 +25,7 @@ class _BookAppointmentState extends State<BookAppointment> {
   bool? gender = false;
   bool? caste = false;
   bool? bloodGroup = false;
+  //new document
   bool isLoading = false;
 
   final Map<String, List<String>> documentRequirements = {
